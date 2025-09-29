@@ -29,14 +29,12 @@ html, body, #root {
   height: 100%;
 }
 
-/* container principal */
 .page-container {
   display: flex;
   flex-direction: column;
   min-height: 100vh; /* ocupa a tela toda */
 }
 
-/* conteúdo que empurra o footer */
 .content {
   flex: 1;
   display: flex;
