@@ -19,7 +19,6 @@ function Sobre() {
                             <h2>Mateus Esteves</h2>
                             <span>Desenvolvedor de software</span> <br />
                             <br />
-                            <br />
                             <p>Profissional com sólida experiência em Administração de Redes, Desenvolvimento de Software, Desenvolvimento Web com React e aplicações com .NET. Atuo de forma versátil em múltiplas frentes da tecnologia, unindo conhecimentos técnicos a uma visão estratégica de soluções digitais.</p> <br />
                             <p>Tenho como compromisso a criação de sistemas robustos e eficientes, com foco na otimização de processos, escalabilidade e na integração de tecnologias modernas para proporcionar uma melhor experiência ao usuário.</p> <br />
                             <p>Movido pela paixão em transformar ideias em soluções digitais tangíveis, busco constantemente inovar, evoluir tecnicamente e agregar valor por meio da tecnologia.</p>
