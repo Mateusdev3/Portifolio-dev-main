@@ -1,0 +1,12 @@
+.main{
+ display: flex;
+ flex-direction: column;
+ color: var(--red);
+
+}
+.main span{
+    font-size: 450px;
+}
+.main p{
+    font-size: 50px;
+}
